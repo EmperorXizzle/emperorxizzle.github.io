@@ -10,3 +10,15 @@ MD5sum: BF55710ACE3C2BFF0F1280E3DE3DF2EF
 Description: Minimalist GPS spoofer (free, iOS 13+)
 Name: Relocate Reborn
 Author: Nepeta
+
+Package: me.nepeta.libnepeta
+Version: 0.1.1
+Section: Development
+Maintainer: Nepeta
+Architecture: iphoneos-arm
+Filename: ./debs/me.nepeta.libnepeta_0.1.1_iphoneos-arm.deb
+Size: 208
+MD5sum: 9C6B0244143ED613E6D4B2394B165545
+Description: Nepeta's color utils
+Name: libnepeta
+Author: Nepeta
